@@ -1,7 +1,7 @@
 {
   "FileVersion": 3,
   "Version": 1,
-  "VersionName": "0.1.1",
+  "VersionName": "0.1.2",
   "FriendlyName": "Mesh Weight Remap",
   "Description": "Makes a skeletal mesh safe to leader-pose off another one. Moves skin weights off every bone the leader will never evaluate onto the nearest ancestor it does, leaving weights on driven bones exactly as they were. Nothing in it knows about any particular character system.",
   "Category": "Automation Forge",
