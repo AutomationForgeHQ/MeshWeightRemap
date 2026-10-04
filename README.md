@@ -5,7 +5,7 @@ Makes a skeletal mesh safe to **leader-pose** off another one.
 Nothing in it knows about MetaHumans, Narrative Pro, or any other character system. Two meshes, one
 posing the other, is the whole precondition.
 
-**Version 0.1.2. Experimental.**
+<!-- forge:version -->**Version 0.1.3. Experimental.**<!-- /forge:version -->
 
 ---
 
